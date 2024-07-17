@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSAK04
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - E-mail: pgmak9975@gmail.com
